@@ -1,0 +1,50 @@
+body {
+  background-color: #b8860b;
+}
+
+.image {
+  display: block;
+  margin: auto;
+}
+
+.title {
+  color: #a30707;
+  font-size: auto;
+  text-align: center;
+  background-color: #deb887;
+}
+
+.text {
+  font-family: georgia;
+  font-size: large;
+  text-align: center;
+  background-color: #deb887;
+}
+
+.go {
+  float: right;
+  background-color: #deb887;
+  font-size: large;
+  text-decoration: None;
+  color: #a30707;
+}
+
+.back {
+  float: left;
+  background-color: #deb887;
+  font-size: large;
+  text-decoration: None;
+  color: #a30707;
+}
+
+.image {
+  width: 200px;
+  height: 200px;
+  display: block;
+  margin: auto;
+}
+
+.table {
+  margin: 0 auto;
+  background-color: #deb887;
+}
